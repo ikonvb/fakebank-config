@@ -1,0 +1,16 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+
+build:
+  version: "1.0.0"
+
+loans:
+  message: "Welcome to FakeBank loans related prod APIs "
+  contactDetails:
+    name: "Reine Dos Ray - Prod Lead"
+    email: "reine@fakebank.com"
+  onCallSupport:
+    - (777) 555-1234
+    - (777) 523-1345

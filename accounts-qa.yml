@@ -1,0 +1,11 @@
+build:
+  version: "2.0.0"
+
+accounts:
+  message: "Welcome to FakeBank accounts related QA APIs "
+  contactDetails:
+    name: "Smith Ray - QA Lead"
+    email: "smith@fakebank.com"
+  onCallSupport:
+    - (666) 555-1234
+    - (666) 523-1345
