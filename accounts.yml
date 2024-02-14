@@ -1,7 +1,7 @@
 build:
   version: "3.0.0"
 accounts:
-  message: "Welcome to FakeBank accounts related local APIs "
+  message: "Welcome to FakeBank accounts related DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD APIs "
   contactDetails:
     name: "John Doe - Developer"
     email: "john@fakebank.com"
